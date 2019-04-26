@@ -1,0 +1,26 @@
+= apiomatic
+
+== Description
+
+apiomatic is a rack-based framework designed to build REST API 
+with Ruby quick and easy.
+
+== Usage
+
+A gem is available at rubygems.org. You can install it with:
+
+    gem install apiomatic
+
+== Getting started
+
+(TODO)
+
+== Changelog
+
+See CHANGELOG.md
+
+== License
+
+Rake is available under an MIT-style license.
+
+:include: LICENSE
